@@ -1,32 +1,6 @@
-nav a:hover {
-    background-color: #ddd;
-    color: black;
-    border-radius: 10px;
-  }
-
-  /* Style the "active" element to highlight the current page */
-nav a.active {
-    background-color: #2196F3;
-    color: white;
-    border-radius: 10px;
-
-    
-  }
 
 
-  @media only screen and (max-width: 600px) {
-
-    
-
-    .fa-facebook,.fa-linkedin{
-      margin-right: 50px ;
-    }
-
-    
-
-
-  }
-
+  
     
   
 
@@ -35,65 +9,6 @@ nav a.active {
 
 
  
-
-.container{
-  margin-bottom: 100px;
-}
-
-
-
-.orange_bg{
-  background-color: #FEEAE9;
-}
-
-
-
-/* input class with button  */
-
-
-
-
-.cusbtn1_car{
-
-  background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
-  color: #fff;
-  border: none;
-  border-radius: 8px;
-  padding: 9px 25px;
-  cursor: pointer;
-    
-  }
-
-  .text-color1{
-    color: #FF136F;
-
-  }
-
-  .cusbtn2_car{
-
-    background-color: #f52276; /* Green */
-    border: none;
-    color: white;
-    padding: 15px 32px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    border-radius: 0 10px 10px 0;
-  }
-
-  
-
-  .carousel-caption{
-    width:100%;
-    height:100%;
-    left:0;
-    right:0;
-    bottom:0;
-    background-color:rgba(0,0,0,0.5);
-    
-  }
-
 
   
 
