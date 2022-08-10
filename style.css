@@ -1,15 +1,30 @@
 
 
+.setw{
+  /* min-width: 277px; */
   
-    
+}
+
+.seth{
+  min-height: 181px;
+}
   
+.box{
+  box-sizing: border-box;
 
- 
+}
+
+.colsetw{
+  min-width: 333px;
+}
 
 
-
- 
-
+.carddiv{
+  min-width: 177px;
+  min-height: 145px;
   
+  /* border: 10px solid #000; */
+}
 
- 
+
+
